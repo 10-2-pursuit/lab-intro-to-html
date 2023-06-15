@@ -1,0 +1,18 @@
+{
+    "sourceFile": "index.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1686797634152,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1686797634152,
+            "name": "Commit-0",
+            "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head><title>Home</title></head>\n<body>\n    <h1>Home</h1>\n    <nav>\n      <h1>\n        <ul>\n            <li><a href=\"/sundial/index.html\">Sundial</a></li>\n            <li><a href=\"recipe/index.html\">Recipe</a></li>\n        </ul>\n      </h1>\n\n    </nav>\n\n</body>\n</html>"
+        }
+    ]
+}
