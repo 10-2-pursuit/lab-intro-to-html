@@ -67,7 +67,6 @@ are inaccurate because of poor design and cannot be corrected.
 
 Now double-click the file to open it in your browser, and you'll see it doesn't look like the example image below. You haven't added any HTML tags to your code, so the browser renders your text exactly as is.
 
-[![Html challenge1.png](https://upload.wikimedia.org/wikiversity/en/3/3d/Html_challenge1.png)](https://en.wikiversity.org/wiki/File:Html_challenge1.png#/media/File:Html_challenge1.png)
 
 _By Michael Nelson - screenshot on ubuntu Linux, [CC BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5 "Creative Commons Attribution 2.5")_
 
@@ -85,7 +84,6 @@ The key is to use the headings to structure your information in a practical (and
 
 Make a file `recipe.html` that renders a recipe of your choice. It should include elements so that it looks very similar to this:
 
-![screenshot](./images/pbjImage.png)
 
 Include the following:
 
@@ -95,3 +93,4 @@ Include the following:
 1. An unordered list of ingredients. `<ul>`
 1. An ordered list of directions. `<ol>`
 1. Add a link to a similar recipe somewhere online.
+
